@@ -26,7 +26,7 @@ O projeto integra conceitos de Web 3.0 e Redes de Infraestrutura Física Descent
 3. **Auditoria em Tempo Real:** Interface de *World Space UI* que responde a interações físicas do jogador (simulação de *Smart Contract*).
 
 ## 🚀 Como Executar
-1. Clone este repositório: `git clone https://github.com/YakamiTech/C4-Amazon-VR-Avancado-TIC29.git`
+1. Clone este repositório: `https://github.com/erickthenight/C4-Amazon-VR-Avancado-TIC29`
 2. Abra o projeto no Unity Hub (versão recomendada: 6000.4.0f1 ou superior).
 3. Certifique-se de que o URP está configurado nos *Graphics Settings*.
 4. A cena principal encontra-se em `Assets/Scenes/`.
