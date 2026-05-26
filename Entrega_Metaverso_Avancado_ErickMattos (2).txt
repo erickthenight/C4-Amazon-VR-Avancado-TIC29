@@ -1,0 +1,6 @@
+Nome do Aluno: Erick de Araújo Mattos
+Turma: Web 3.0 - Residência em TIC 29
+Atividade: Atividade 2 - Metaverso - Projeto Avançado (Nível Avançado)
+Nome do Projeto: C4-AMAZON: Gêmeo Digital e Comando DePIN
+
+Link do Repositório GitHub: https://github.com/erickthenight/C4-Amazon-VR-Avancado-TIC29
